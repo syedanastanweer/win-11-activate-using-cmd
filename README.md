@@ -2,7 +2,7 @@ Certainly! Here's a step-by-step guide with headings for activating Windows 11 u
 
 Step 1: Open Command Prompt as Administrator
 
-Click on the Start button, type ```bash cmd ``` in the search bar.
+Click on the Start button, type `cmd` in the search bar.
 Right-click on "Command Prompt" and select "Run as administrator".
 
 Step 2: Install KMS Client Key
@@ -36,13 +36,13 @@ Follow these steps in sequence to successfully activate your Windows operating s
 
 The following is the list of Windows 11 Volume license keys.
 
-Home: ```bash TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 ```
-Home N: ```bash 3KHY7-WNT83-DGQKR-F7HPR-844BM ```
-Home Single Language: ```bash 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH ```
-Home Country Specific: ```bash PVMJN-6DFY6-9CCP6-7BKTT-D3WVR ```
-Pro: ```bash W269N-WFGWX-YVC9B-4J6C9-T83GX ```
-Pro N: ```bash MH37W-N47XK-V7XM9-C7227-GCQG9 ```
-Education: ```bash NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 ```
-Education N: ```bash 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ ```
-Enterprise: ```bash NPPR9-FWDCX-D2C8J-H872K-2YT43 ```
-Enterprise N: ```bash DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 ```
+Home: `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99`
+Home N: `3KHY7-WNT83-DGQKR-F7HPR-844BM`
+Home Single Language: `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH`
+Home Country Specific: `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR`
+Pro: `W269N-WFGWX-YVC9B-4J6C9-T83GX`
+Pro N: `MH37W-N47XK-V7XM9-C7227-GCQG9`
+Education: `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2`
+Education N: `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ`
+Enterprise: `NPPR9-FWDCX-D2C8J-H872K-2YT43`
+Enterprise N: `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4`
